@@ -13,8 +13,8 @@ object_list = []
 # constants
 
 savedir = 'annotations'
-obj = 'fidget_kid_spinner_toys'
-image_folder = os.path.join('images', obj)
+obj = 'fidget kid spinner toys'
+image_folder = os.path.join('downloads', obj)
 
 def line_select_callback(clk, rls):
     global tl_list

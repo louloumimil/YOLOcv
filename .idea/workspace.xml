@@ -2,12 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d63f8d29-4e16-4aae-bad3-a72f51c02777" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/YOLOtest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/annotations/000001.xml" beforeDir="false" afterPath="$PROJECT_DIR$/get_images/annotations/000001.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/draw_box.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_images/draw_box.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/get_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_images/get_images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000019.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_images/images/fidget_kid_spinner_toys/000020.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/yolo_object_detection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
+            <state relative-caret-position="833">
               <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -32,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/get_images/draw_box.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="57" column="41" lean-forward="true" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
+            <state relative-caret-position="136">
+              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -44,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/get_images/get_images.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+            <state relative-caret-position="299">
+              <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -56,7 +74,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/get_images/generate_xml.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
+            <state relative-caret-position="-76">
               <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -83,8 +101,8 @@
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/yolo_object_detection.py" />
         <option value="$PROJECT_DIR$/get_images/generate_xml.py" />
-        <option value="$PROJECT_DIR$/get_images/draw_box.py" />
         <option value="$PROJECT_DIR$/get_images/get_images.py" />
+        <option value="$PROJECT_DIR$/get_images/draw_box.py" />
       </list>
     </option>
   </component>
@@ -242,20 +260,30 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="212" y="14" width="1400" height="820" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32751092" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32751092" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3973799" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32896653" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32896653" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32896653" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.30276564" />
@@ -350,47 +378,52 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>re.search(r'^&quot;http://.*\.jpg&quot;$' ,response.text)</expression-string>
+        <expression-string>type(paths[0][search_name])</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>re.search(r'^&quot;http://.*\.jpg$' ,response.text)</expression-string>
+        <expression-string>paths[0][search_name]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>re.search(r'^thttp://.*\.jpg$' ,response.text)</expression-string>
+        <expression-string>search_name</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>re.search(r'^http://.*\.jpg$' ,response.text)</expression-string>
+        <expression-string>paths</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>re.search(r'^https://.*\.jpg$' ,response.text)</expression-string>
+        <expression-string>path</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>re.search(r'^ftp://.*\.jpg$' ,response.text)</expression-string>
+        <expression-string>paths['result']</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>response.text.startswith(&quot;https://&quot;)</expression-string>
+        <expression-string>paths[0]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>response.text.startswith(&quot;http://&quot;)</expression-string>
+        <expression-string>paths[0]['result']</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>response.text.startswith(&quot;ftp://&quot;)</expression-string>
+        <expression-string>paths[0][0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>paths(0)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -401,16 +434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yolo_object_detection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -445,16 +468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/get_images/generate_xml.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.conda/envs/py37yolo/Lib/urllib/request.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
@@ -462,10 +475,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/yolo_object_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/py37yolo/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="222" selection-start-line="222" selection-end-line="222" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/py37yolo/Lib/site-packages/selenium/webdriver/common/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/py37yolo/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="184" column="21" selection-start-line="184" selection-start-column="21" selection-end-line="184" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_images/generate_xml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/get_images/get_images.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        <state relative-caret-position="299">
+          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -474,8 +535,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/get_images/draw_box.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="57" column="41" lean-forward="true" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
+        <state relative-caret-position="136">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>

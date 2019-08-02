@@ -4,6 +4,8 @@ from bs4 import BeautifulSoup as Soup
 import json
 import requests as req
 import re
+from google_images_download import google_images_download
+
 
 
 url_a = 'https://www.google.com/search?ei=1m7NWePfFYaGmQG51q7IBg&hl=en&q={}'
@@ -16,13 +18,14 @@ headers = {'User-Agent': 'Chrome/ 75.0.3770.142 Safari/537.36'}
 
 
 def get_links(search_name):
-    search_name = search_name.replace(' ', '+')
-    url = url_base.format(search_name, 0)
-    response = req.get(url)
-    soup = Soup(response.text, 'html.parser')
-    images = soup.find_all('img')
-    links = [image['src'] for image in images]
-    return links
+    response = google_images_download.googleimagesdownload()  # class instantiation
+    arguments = {"keywords": search_name, "limit": 2, "print_urls": True}
+    paths = response.download(arguments)
+    for i, fullpath in enumerate(paths[0][search_name]):
+        dir_name = os.path.dirname(fullpath)
+        os.rename(fullpath, os.path.join(dir_name,'{:06}.png'.format(i)))
+
+    return paths
 
 
 def save_images(links, search_name):
@@ -40,4 +43,4 @@ def save_images(links, search_name):
 if __name__ == '__main__':
     search_name = 'fidget kid spinner toys'
     links = get_links(search_name)
-    save_images(links, search_name)
+    #save_images(links, search_name)
